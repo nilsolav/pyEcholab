@@ -1030,7 +1030,7 @@ class raw_data(ping_data):
         """
         get_sv returns a processed_data object containing sv
 
-        This is a convienience method which simply calls get_Sv and forces
+        This is a convenience method which simply calls get_Sv and forces
         the linear keyword to True.
         """
 
